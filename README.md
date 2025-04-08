@@ -1,2 +1,2 @@
-# lab
-lab exam 🤫😶
+# javakit
+consists of jvm, jdk, etc 🤫😶
